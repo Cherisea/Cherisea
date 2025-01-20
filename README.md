@@ -34,6 +34,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="sql", width=45, height=45/>
 </p>
 
-# 🛣️ Stats
+<!-- # 🛣️ Stats
 [![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cherisea&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherisea&)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherisea&)](https://github.com/anuraghazra/github-readme-stats) -->
